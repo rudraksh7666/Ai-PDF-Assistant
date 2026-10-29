@@ -1,2 +1,0 @@
-# Ai-PDF-Assistant
-AI PDF ASSISTANT
